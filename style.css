@@ -1,0 +1,80 @@
+*{
+    font-family: 'Open Sans Condensed',sans-serif;
+}
+.navbar{
+    background-color: black;
+   
+}
+.navbar{
+    height: 93.4px;
+}
+.navbar-toggler{
+    margin-left: 100px;
+    background-color: white;
+}
+.nav-item{
+    margin-top: 1px;
+    font-size: 15px;
+    margin-left: 20px;
+}
+.navbar-nav{
+    text-align: end;
+   
+}
+.logo{
+    height: 60px;
+    width: 115px;
+}
+.logo-1{
+    width: 30px;
+    height: 28px;
+    margin-left: 10px;
+}
+.img-heading{
+    margin-top: 70px;
+    font-size: 46px;
+}
+.card-title{
+    font-size: 24px;
+  
+}
+.blog-heading{
+    font-size: 20px;
+    font-weight: 800;
+}
+.card-title2{
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+.card-text{
+    font-size: 1rem;
+    font-weight: 400;
+}
+.coin{
+    height: 136px;
+  width: 150px;
+}
+.colums{
+    background-color: black;
+    height: 226px;
+}
+ul{
+    list-style-type: none;
+   
+  margin-bottom: 1rem;
+  line-height: 14.5px;
+}
+li{
+    margin-top:20px;
+    color: #be9509;
+  font-size: 15px;
+  font-weight: 400;
+}
+.logo-last{
+    width: 120px;
+    margin-top: 65px;
+}
+.social{
+    width: 25px;
+    height: 25px;
+}
